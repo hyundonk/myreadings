@@ -5,3 +5,6 @@ Casual recording of what I've read
 Hunting for Capital One Breach TTPs in AWS logs using Azure Sentinel - Part I (https://techcommunity.microsoft.com/t5/Azure-Sentinel/Hunting-for-Capital-One-Breach-TTPs-in-AWS-logs-using-Azure/ba-p/1014258)
 
 Hunting for Capital One Breach TTPs in AWS logs using Azure Sentinel - Part II (https://techcommunity.microsoft.com/t5/Azure-Sentinel/Hunting-for-Capital-One-Breach-TTPs-in-AWS-logs-using-Azure/ba-p/1019767)
+
+CLOUD SECURITY - ATTACKING THE METADATA SERVICE
+https://pumascan.com/resources/cloud-security-instance-metadata/
